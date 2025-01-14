@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Mar!
+I am a Master student at the University of Jena.
 
 <!--
 **mbernalflo/mbernalflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
