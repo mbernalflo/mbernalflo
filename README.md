@@ -1,8 +1,8 @@
 ### Hi there 👋
-My name is Mar (she/her) and I am a master's student specializing in Ecology and Evolution with a passion for coding and all things technology.
+My name is Mar (she/her) and I am a master's graduate specializing in Ecology and Evolution with a passion for coding and all things technology.
 
 #### 🔬 Current Projects
-- Master's Thesis: Mate choice and song analysis in a color polymoprhic grasshopper.  
+- Internship at Lammi Biological Station working on sound localization in the eurasian lynx  
 - Developing tools for the analysis of grasshoper's songs. 
 
 #### 🌱 Interests
@@ -12,7 +12,8 @@ My name is Mar (she/her) and I am a master's student specializing in Ecology and
 - Exploring the applications of AI in biology
 
 #### 🗂️ Past Projects
-- Bachelor's Thesis: Lockdown influence on the San Rossore Estate wildlife: preliminary results. 
+- Bachelor's Thesis: Lockdown influence on the San Rossore Estate wildlife: preliminary results.
+- Master Thesis: “Mate choice and song analysis in a colour polymorphic grasshopper”
 
 #### 🛠 Programming skills
 - R
