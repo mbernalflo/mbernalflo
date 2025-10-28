@@ -25,7 +25,7 @@ My name is Mar (she/her) and I am a master's student specializing in Ecology and
 
 
 #### 📚 Academic Background
-- M.Sc. in Ecology, Evolution and Systematics [Friedrich Schiller Universtät Jena] (Expected: Summer 2025)
+- M.Sc. in Ecology, Evolution and Systematics [Friedrich Schiller Universtät Jena]
 - B.Sc. in Wildlife Sciences [Universtà degli Studi di Firenze] 
 
 
