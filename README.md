@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Mar (she/her) and I am a Master's graduate specializing in Ecology and Evolution with a passion for coding and all things technology. I am particularly interested in human-wildlife coexistence and bioacoustics.
+My name is Mar (she/her) and I am a Master's graduate specializing in Ecology and Evolution with a passion for coding and all things technology. I am particularly interested in conservation technology, human-wildlife coexistence and bioacoustics.
 
 #### 🔬 Current Projects
 - Internship at Lammi Biological Station working on sound localization in the eurasian lynx  
@@ -9,6 +9,7 @@ My name is Mar (she/her) and I am a Master's graduate specializing in Ecology an
 - Behavioral ecology
 - Human-Nature interaction
 - Exploring the applications of AI in biology
+- Developing new systems and technolgies that help ecologists and conservationists
 
 #### 🗂️ Past Projects
 - Bachelor's Thesis: Lockdown influence on the San Rossore Estate wildlife: preliminary results.
@@ -17,7 +18,7 @@ My name is Mar (she/her) and I am a Master's graduate specializing in Ecology an
 
 #### 🛠 Programming skills
 - R
-- Python
+- Basics of Python
 - A little bit of C
   
 #### 📫 How to reach me:
