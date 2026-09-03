@@ -1,34 +1,42 @@
 ### Hi there 👋
-My name is Mar (she/her) and I am a Master's graduate specializing in Ecology and Evolution with a passion for coding and all things technology. I am particularly interested in conservation technology, human-wildlife coexistence and bioacoustics.
+I'm Mar (she/her), a PhD student in Ecology passionate about bioacoustics, biodiversity monitoring, conservation technology, and computational ecology.
 
-#### 🔬 Current Projects
-- Internship at Lammi Biological Station working on sound localization in the eurasian lynx  
+My current research focuses on developing bioacoustic methods for monitoring and quantifying biodiversity in Swedish forests. I am passionate about coding and technology, particularly their application to ecological and conservation research.
+
+#### 🔬 Current Research
+ - PhD project: Developing bioacoustic methods for monitoring and quantifying biodiversity in Swedish forests
  
 #### 🌱 Interests
 - Ecology and conservation
+- Bioacoustics
+- Development of tools and technologies for ecologists and conservation practitioners
+- AI and machine learning applications in ecology
+- Conservation technology
+- Biodiversity monitoring
+- Human-wildlife coexistence
 - Behavioral ecology
-- Human-Nature interaction
-- Exploring the applications of AI in biology
-- Developing new systems and technolgies that help ecologists and conservationists
 
 #### 🗂️ Past Projects
-- Bachelor's Thesis: Lockdown influence on the San Rossore Estate wildlife: preliminary results.
 - Master Thesis: “Mate choice and song analysis in a colour polymorphic grasshopper”
-- Developing tools for the analysis of grasshoper's songs.
+- Developing tools for the analysis of grasshopper's songs.
+- Internship at Lammi Biological Station working on sound localization in the Eurasian lynx
+- Bachelor's Thesis: Lockdown influence on the San Rossore Estate wildlife: preliminary results.
 
 #### 🛠 Programming skills
 - R
-- Basics of Python
+- Python
 - A little bit of C
   
 #### 📫 How to reach me:
 - Email: mar.bernal.flo50@gmail.com
+- Work email: mar.bernal.flo@slu.se
 <!-- - LinkedIn: www.linkedin.com/in/mar-bernal-flo -->
 
 
 #### 📚 Academic Background
-- M.Sc. in Ecology, Evolution and Systematics [Friedrich Schiller Universtät Jena]
-- B.Sc. in Wildlife Sciences [Universtà degli Studi di Firenze] 
+- PhD Student in Ecology, Swedish University of Agricultural Sciences (SLU)
+- M.Sc. in Ecology, Evolution and Systematics [Friedrich Schiller Universität Jena]
+- B.Sc. in Wildlife Sciences [Università degli Studi di Firenze] 
 
 
 
