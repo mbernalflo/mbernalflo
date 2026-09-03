@@ -28,13 +28,14 @@ My current research focuses on developing bioacoustic methods for monitoring and
 - A little bit of C
   
 #### 📫 How to reach me:
-- Email: mar.bernal.flo50@gmail.com
 - Work email: mar.bernal.flo@slu.se
+- Email: mar.bernal.flo50@gmail.com
+
 <!-- - LinkedIn: www.linkedin.com/in/mar-bernal-flo -->
 
 
 #### 📚 Academic Background
-- PhD Student in Ecology, Swedish University of Agricultural Sciences (SLU)
+- PhD Student in Ecology [Swedish University of Agricultural Sciences (SLU)]
 - M.Sc. in Ecology, Evolution and Systematics [Friedrich Schiller Universität Jena]
 - B.Sc. in Wildlife Sciences [Università degli Studi di Firenze] 
 
