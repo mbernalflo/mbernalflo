@@ -19,7 +19,7 @@ My current research focuses on developing bioacoustic methods for monitoring and
 #### 🗂️ Past Projects
 - Master Thesis: “Mate choice and song analysis in a colour polymorphic grasshopper”
 - Developing tools for the analysis of grasshopper's songs.
-- Internship at Lammi Biological Station working on sound localization in the Eurasian lynx
+- Internship at Lammi Biological Station working on sound localization of the Eurasian lynx
 - Bachelor's Thesis: Lockdown influence on the San Rossore Estate wildlife: preliminary results.
 
 #### 🛠 Programming skills
